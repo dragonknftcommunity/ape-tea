@@ -1,5 +1,5 @@
 {
-  "name": "ape_tea",
+  "name": "ape-tea",
   "version": "1.0.0",
   "description": "A library for reading and writing [APEv2 tags][1].",
   "main": "index.js",
